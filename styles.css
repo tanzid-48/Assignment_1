@@ -132,3 +132,9 @@ font-weight: 600;
 border-radius: 10px;
   border: none;  
 }
+.banner-section .btn-2:hover{
+    background-color: blueviolet;
+}
+.banner-section .btn-3:hover{
+    background-color: antiquewhite;
+}
