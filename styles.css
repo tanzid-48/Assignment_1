@@ -138,3 +138,70 @@ border-radius: 10px;
 .banner-section .btn-3:hover{
     background-color: antiquewhite;
 }
+/* node section */
+.note-section .note-head h2{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+
+}
+.note-section .note-head .sub-head{
+  font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* Card-Section */
+.card-container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+
+}
+.card-container .card{
+    padding: 30px 20px;
+    width: 322px;
+    height:300px;
+   border-radius: 8px;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.06);
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    align-items: center;
+    gap: 26px;
+   border-radius: 8px;
+   box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.06);
+    
+}
+.icon{
+   width: 50px;
+   height: 50px;
+  border-radius: 50%;
+  color: #FFFFFF;
+  background-color: #e74c3c;
+   margin: 0 auto;
+  display: flex;
+   align-items: center;
+  justify-content: center;
+  margin-top: 29px;
+ }
+ .card h4{
+    font-size: 24px;
+     font-weight: bold;
+       color: #333;
+       line-height: 29px;
+       text-align: center;
+       margin-top: 16px;
+ }
+.card p{
+    width: 274px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
