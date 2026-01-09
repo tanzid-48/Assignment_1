@@ -205,3 +205,44 @@ border-radius: 10px;
     font-weight: 400;
     text-align: center;
 }
+.Brain-Section{
+    margin: 0 auto;
+    width: 1600px;
+    height: 840px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:60px;
+    padding: 0 120px;
+}
+.Brain-Section .right-text .section-massage{
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    line-height: 20px;
+    color: rgb(8, 194, 8);
+}
+.Brain-Section .right-text .title{
+    font-weight: bold;
+    font-size: 48px;
+    list-style: 58px;
+    text-align: left;
+    width: 600px;
+     height: 116px;
+     margin-top: 10px;
+}
+.Brain-Section .right-text .description{
+    font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+ text-align: left;
+  width: 400px;
+  margin-bottom: 16px;
+}
+.Brain-Section .right-text .cheakbox{
+    font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+color: #001931;
+text-align: left; 
+}
